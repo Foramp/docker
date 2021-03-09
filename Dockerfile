@@ -1,3 +1,3 @@
 from centos
 
-echo 'aaa'
+echo 'aaabbb'
