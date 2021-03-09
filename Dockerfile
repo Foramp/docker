@@ -1,3 +1,3 @@
-from centos
+FROM centos
 
-echo 'aaabbb'
+RUN echo 'aaabbb'
