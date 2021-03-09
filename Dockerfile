@@ -1,0 +1,3 @@
+from centos
+
+echo 'aaa'
